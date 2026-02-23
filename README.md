@@ -14,6 +14,7 @@ Currently, I am developing **Constraint Synthetic Data Generation (CSDG)** — a
 * Standard Deviation.
 * bounds.
 * Modal structures.
+
 The goal is to bridge descriptive statistics and generative modeling through rigorous numerical methods.
 
 ### 🔬 Current Focus
@@ -35,6 +36,7 @@ Recent explorations include:
 * Empirical runtime–a² relationships.
 * Hierarchical reconstruction strategies.
 * jumping mechanism and its conditions.
+
 This is an ongoing research-driven project.
 
 ### 🛠️ Tools & Technologies
